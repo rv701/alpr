@@ -33,5 +33,10 @@
         "country": "CAN",
         "state": "Ontario",
         "plate_number": "AEPN243"
+    },
+    {
+        "country": "MEX",
+        "state": "Baja Norte",
+        "plate_number": "BDP200A"
     }
 ]
